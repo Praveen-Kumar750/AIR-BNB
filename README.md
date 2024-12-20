@@ -77,6 +77,9 @@ Welcome to the **AIR-BNB** project repository! This is a full-stack web applicat
 
 ---
 
+### Live Demo
+Check out the live version of the project here:
+[Link](https://airbnb-demo-wqcm.onrender.com)
 ### **Contributors**
 - **Praveen Kumar**  
   [GitHub](https://github.com/Praveen-Kumar750) | [LinkedIn](https://linkedin.com/in/praveen-kumar-4a9435254)
